@@ -75,17 +75,6 @@
 |:-----|:----:|
 | [なっちゃん](https://twitter.com/marin72_com) | 実行委員長 |
 | [うなすけ](https://twitter.com/yu_suke1994) | 実行副委員長 |
-| [るーく](https://twitter.com/RooandQoo) | 未定 |
-| [とちくじ](https://twitter.com/tochikuji) | 未定 |
-| [スズヨシ](https://twitter.com/suzuyoshi9) | 未定 |
-| [まっくん](https://twitter.com/mactkg) | 未定 |
-| [かじき](https://twitter.com/kaziki2) | 未定 |
-| [かわたそ](https://twitter.com/kawataso) | 設営(インフラ) |
-| [ありたそ](https://twitter.com/alitaso345) | 未定 | 
-| [べーた](https://twitter.com/beta_chelsea) | 未定 |
-| [いちごオレ](https://twitter.com/ichigo_o_re) | 未定 | 
-| [mktakuya](https://twitter.com/mktakuya) | 未定 |
-| [あそなす](https://twitter.com/asonas) | 未定 |
 
 ## 公式タグ
 - kosenconf-100tokyo
