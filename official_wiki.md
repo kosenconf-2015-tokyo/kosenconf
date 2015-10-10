@@ -127,20 +127,21 @@
 |:-----|:----:|
 | [なっちゃん](https://twitter.com/marin72_com) | 実行委員長 |
 | [うなすけ](https://twitter.com/yu_suke1994) | 実行副委員長 |
-| [るーあんどくー](https://twitter.com/RooandQoo) | 企画(ゆめこれ) |
-| [とちくじ](https://twitter.com/tochikuji) | 複数トラック発表 |
-| [スズヨシ](https://twitter.com/suzuyoshi9) | 一般発表・LT・ネットワーク設営・配信 |
-| [まっくん](https://twitter.com/mactkg) | 企画(夢これ) |
-| [かじき](https://twitter.com/kaziki2) | 受付・広報 |
-| [かわたそ](https://twitter.com/kawataso) | ネットワーク設営・配信 |
-| [ありたそ](https://twitter.com/alitaso346) | 懇親会 |
 | [べーた](https://twitter.com/beta_chelsea) | 一般発表・LT |
+| [スズヨシ](https://twitter.com/suzuyoshi9) | 一般発表・LT / ネットワーク設営・配信 |
+| [るーく](https://twitter.com/RooandQoo) | 夢これ |
+| [まっくん](https://twitter.com/mactkg) | 夢これ / 会計・物品 |
 | [いちごオレ](https://twitter.com/ichigo_o_re) | 複数トラック発表 |
-| [mktakuya](https://twitter.com/mktakuya) | 企画(アイスブレイク) |
-| [あそなす](https://twitter.com/asonas) | 会場設営 |
-| [くりむぞん](https://twitter.com/crimsonwoods) | 企画(アイスブレイク) |
-| [はるかさん](https://twitter.com/harukasan) | 会計・物品 |
+| [とちくじ](https://twitter.com/tochikuji) | 複数トラック発表 / 会場設営 |
+| [くりむぞん](https://twitter.com/crimsonwoods) | アイスブレイク |
+| [mktakuya](https://twitter.com/mktakuya) | アイスブレイク |
+| [ありたそ](https://twitter.com/alitaso346) | 懇親会 |
 | [かたつむり](https://twitter.com/cathy044) | 受付・広報 |
+| [かじき](https://twitter.com/kaziki2) | 受付・広報 |
+| [でなり](https://twitter.com/denari01) | 受付・広報（ポスター） |
+| [はるかさん](https://twitter.com/harukasan) | 会計・物品 |
+| [あそなす](https://twitter.com/asonas) | 会場設営 |
+| [かわたそ](https://twitter.com/kawataso) | ネットワーク設営・配信 |
 
 ## 公式タグ
 - kosenconf-100tokyo
