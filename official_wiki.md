@@ -31,6 +31,10 @@
 ## ポスター
 - ただいま準備中です
 
+## 参加者募集
+10/11 申し込み開始しました。  
+[申し込みはこちらから](https://kosenconf.doorkeeper.jp/events/32929)
+
 ## 発表者募集
 ### 発表形式
 今回の高専カンファレンスでは、一般発表、複数トラック発表、Lightning Talkの3種類の発表を行います。
@@ -88,9 +92,6 @@
 [一般発表・Lightning Talkへの申し込みはこちら](https://docs.google.com/forms/d/1k2fKq-gzBb8OzNGWQahrlN2wbMalM_Xn4DcGss7FBmo/viewform?c=0&w=1)
 
 [複数トラック発表への申し込みはこちら](https://docs.google.com/forms/d/16efC87Lpc5lKG485skkXhBw7lcSrQcs--7wmaQEePfM/viewform)
-
-## 参加者募集
-- ただいま準備中です
 
 ## タイムテーブル
 ### 1日目
