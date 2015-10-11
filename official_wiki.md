@@ -150,5 +150,5 @@
 
 ## 公式連絡先
 - 高専カンファレンス in 東京 100 代表メールアドレス
-  - kosenconf100[at]gmail.com ([at]を@に変更してください)
+  - kosenconf100[at]googlegroups.com ([at]を@に変更してください)
 
