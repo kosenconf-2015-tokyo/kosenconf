@@ -31,15 +31,70 @@
 ## ポスター
 - ただいま準備中です
 
+## 参加者募集
+10/11 申し込み開始しました。  
+[申し込みはこちらから](https://kosenconf.doorkeeper.jp/events/32929)
+
 ## 発表者募集
 ### 発表形式
-- ただいま準備中です
+今回の高専カンファレンスでは、一般発表、複数トラック発表、Lightning Talkの3種類の発表を行います。
+
+### 一般発表・Lightning Talk
+一般発表・LT（Lightning Talk）の発表者を募集いたします。
+発表した経験がない現役生の方も、ぜひこの機会に発表してみませんか？
+たくさんのご応募をお待ちしております。
+- 発表形式： 一般発表（25分/2枠) or LT（5分/10枠）
+- 募集締切： 11月20日
+- こちらのフォームより必要事項を記入してご応募ください。
+  - [応募フォームはこちら](https://docs.google.com/forms/d/1k2fKq-gzBb8OzNGWQahrlN2wbMalM_Xn4DcGss7FBmo/viewform?c=0&w=1)
+
+#### 備考
+- 募集締め切りは11月20日です。
+- 応募多数の場合は、学生の方の応募を優先して決定いたします。
+- 社会人の方からの応募は抽選にて決定させていただきます。
+
+### 複数トラック発表
+一般発表・LTのように大きな会場で一人が発表するのではなく、 複数の会場で同時にいくつかの発表が行われ、 参加者は自分の聞きたい発表を聞きに行く、という形式の発表です。
+
+> はじめて発表してみたいけど、大勢の前でやるのはちょっと・・・
+> マニアックな話でみんなが興味を持って聞いてくれるか心配・・・
+
+ご安心ください、これはそんな皆さんのためのトラックです！
+「あなたの発表を聞きたい人」があなたの発表を聞きにきます。
+胸のつかえがなくなるまで時間いっぱい話すもよし、 同じ興味を持った同士と共に質疑応答で議論に花を咲かせるもよし。
+私達が「話したいことがあるあなた」のための ステキな時間をプレゼントします。
+
+### 発表時間
+1トラックは15分です。 発表における時間区分等は特に指定しません。
+15分いっぱい発表してもOKですし、 5分だけ発表して10分間質疑応答・議論の時間でもOKです。
+
+
+### 発表形式等
+公的良俗に反しない内容である限り、内容、発表形式また登壇人数などにも一切の制限は設けません。
+
+- フォーマル/インフォーマルな普通のスライド発表
+- 作ったもののデモ展示
+- ライブコーディング
+- 授業
+- 公開討論
+- 演劇
+- 落語
+
+などなど何でもOKです。
+
+### おわりに
+
+この15分はすべて壇上のあなたの時間です。
+誰かにアウトプットしたいことを心に秘めた発表者の皆さん、 その伝えたい気持ちをこのステージでカタチにしてみませんか？
+
+[複数トラック発表への申し込みはこちら](https://docs.google.com/forms/d/16efC87Lpc5lKG485skkXhBw7lcSrQcs--7wmaQEePfM/viewform)
+
 
 ### 申し込み方法
-- ただいま準備中です
+発表者募集締め切りは11月20日です。
+[一般発表・Lightning Talkへの申し込みはこちら](https://docs.google.com/forms/d/1k2fKq-gzBb8OzNGWQahrlN2wbMalM_Xn4DcGss7FBmo/viewform?c=0&w=1)
 
-## 参加者募集
-- ただいま準備中です
+[複数トラック発表への申し込みはこちら](https://docs.google.com/forms/d/16efC87Lpc5lKG485skkXhBw7lcSrQcs--7wmaQEePfM/viewform)
 
 ## タイムテーブル
 ### 1日目
@@ -75,6 +130,21 @@
 |:-----|:----:|
 | [なっちゃん](https://twitter.com/marin72_com) | 実行委員長 |
 | [うなすけ](https://twitter.com/yu_suke1994) | 実行副委員長 |
+| [べーた](https://twitter.com/beta_chelsea) | 一般発表・LT |
+| [スズヨシ](https://twitter.com/suzuyoshi9) | 一般発表・LT / ネットワーク設営・配信 |
+| [るーく](https://twitter.com/RooandQoo) | 夢これ |
+| [まっくん](https://twitter.com/mactkg) | 夢これ / 会計・物品 |
+| [いちごオレ](https://twitter.com/ichigo_o_re) | 複数トラック発表 |
+| [とちくじ](https://twitter.com/tochikuji) | 複数トラック発表 / 会場設営 |
+| [くりむぞん](https://twitter.com/crimsonwoods) | アイスブレイク |
+| [mktakuya](https://twitter.com/mktakuya) | アイスブレイク |
+| [ありたそ](https://twitter.com/alitaso346) | 懇親会 |
+| [かたつむり](https://twitter.com/cathy044) | 受付・広報 |
+| [かじき](https://twitter.com/kaziki2) | 受付・広報 |
+| [でなり](https://twitter.com/denari01) | 受付・広報（ポスター） |
+| [はるかさん](https://twitter.com/harukasan) | 会計・物品 |
+| [あそなす](https://twitter.com/asonas) | 会場設営 |
+| [かわたそ](https://twitter.com/kawataso) | ネットワーク設営・配信 |
 
 ## 公式タグ
 - kosenconf-100tokyo
@@ -82,7 +152,6 @@
 - Twitterでのハッシュタグ #kosenconf もご利用ください．
 
 ## 公式連絡先
-- 高専カンファレンス in 東京 2016 代表メールアドレス
-  - ~~tokyo2016[at]kosenconf.jp ([at]を@に変更してください)~~
+- 高専カンファレンス in 東京 100 代表メールアドレス
+  - kosenconf100[at]googlegroups.com ([at]を@に変更してください)
 
-__メールサーバ障害が発生しています。現在メールの送信はできません。復旧までしばらくお待ち下さい。__
