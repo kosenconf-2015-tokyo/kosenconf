@@ -7,11 +7,13 @@
 - 高専カンファレンス100 in 東京
   - 開催概要
   - ポスター
-  - 発表者募集
-    - 発表形式
-    - 申し込み方法
   - 参加者募集
+  - 発表者募集
+    - 一般発表・Lightning Talk
+    - 複数トラック発表
   - タイムテーブル
+    - 1日目
+    - 2日目
   - 交通アクセス
   - 実行委員
   - 公式タグ
@@ -32,12 +34,14 @@
 - ただいま準備中です
 
 ## 参加者募集
-10/11 申し込み開始しました。  
+10/11 申し込み開始しました。
 [申し込みはこちらから](https://kosenconf.doorkeeper.jp/events/32929)
 
 ## 発表者募集
-### 発表形式
 今回の高専カンファレンスでは、一般発表、複数トラック発表、Lightning Talkの3種類の発表を行います。
+発表者募集締め切りは11月20日です。
+[一般発表・Lightning Talkへの申し込みはこちら](https://docs.google.com/forms/d/1k2fKq-gzBb8OzNGWQahrlN2wbMalM_Xn4DcGss7FBmo/viewform?c=0&w=1)
+[複数トラック発表への申し込みはこちら](https://docs.google.com/forms/d/16efC87Lpc5lKG485skkXhBw7lcSrQcs--7wmaQEePfM/viewform)
 
 ### 一般発表・Lightning Talk
 一般発表・LT（Lightning Talk）の発表者を募集いたします。
@@ -45,13 +49,11 @@
 たくさんのご応募をお待ちしております。
 - 発表形式： 一般発表（25分/2枠) or LT（5分/10枠）
 - 募集締切： 11月20日
-- こちらのフォームより必要事項を記入してご応募ください。
-  - [応募フォームはこちら](https://docs.google.com/forms/d/1k2fKq-gzBb8OzNGWQahrlN2wbMalM_Xn4DcGss7FBmo/viewform?c=0&w=1)
+- 備考：
+  - 応募多数の場合は、学生の方の応募を優先して決定いたします。
+  - 社会人の方からの応募は抽選にて決定させていただきます。
 
-#### 備考
-- 募集締め切りは11月20日です。
-- 応募多数の場合は、学生の方の応募を優先して決定いたします。
-- 社会人の方からの応募は抽選にて決定させていただきます。
+[一般発表・LTへの申し込みはこちら](https://docs.google.com/forms/d/1k2fKq-gzBb8OzNGWQahrlN2wbMalM_Xn4DcGss7FBmo/viewform?c=0&w=1)
 
 ### 複数トラック発表
 一般発表・LTのように大きな会場で一人が発表するのではなく、 複数の会場で同時にいくつかの発表が行われ、 参加者は自分の聞きたい発表を聞きに行く、という形式の発表です。
@@ -90,12 +92,6 @@
 [複数トラック発表への申し込みはこちら](https://docs.google.com/forms/d/16efC87Lpc5lKG485skkXhBw7lcSrQcs--7wmaQEePfM/viewform)
 
 
-### 申し込み方法
-発表者募集締め切りは11月20日です。
-[一般発表・Lightning Talkへの申し込みはこちら](https://docs.google.com/forms/d/1k2fKq-gzBb8OzNGWQahrlN2wbMalM_Xn4DcGss7FBmo/viewform?c=0&w=1)
-
-[複数トラック発表への申し込みはこちら](https://docs.google.com/forms/d/16efC87Lpc5lKG485skkXhBw7lcSrQcs--7wmaQEePfM/viewform)
-
 ## タイムテーブル
 ### 1日目
 | 時間 | 内容 |
@@ -124,6 +120,7 @@
 | 15:30 | 閉会 |
 
 ## 交通アクセス
+- ただいま準備中です
 
 ## 実行委員
 | 名前 | 担当 |
