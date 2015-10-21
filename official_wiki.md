@@ -38,7 +38,7 @@
 [申し込みはこちらから](https://kosenconf.doorkeeper.jp/events/32929)
 
 ## 発表者募集
-今回の高専カンファレンスでは、一般発表、複数トラック発表、Lightning Talkの3種類の発表を行います。
+今回の高専カンファレンスでは、一般発表、複数トラック発表、Lightning Talk、夢これの4種類の発表を行います。
 発表者募集締め切りは11月20日です。
 [一般発表・Lightning Talkへの申し込みはこちら](https://docs.google.com/forms/d/1k2fKq-gzBb8OzNGWQahrlN2wbMalM_Xn4DcGss7FBmo/viewform?c=0&w=1)
 [複数トラック発表への申し込みはこちら](https://docs.google.com/forms/d/16efC87Lpc5lKG485skkXhBw7lcSrQcs--7wmaQEePfM/viewform)
@@ -90,6 +90,10 @@
 誰かにアウトプットしたいことを心に秘めた発表者の皆さん、 その伝えたい気持ちをこのステージでカタチにしてみませんか？
 
 [複数トラック発表への申し込みはこちら](https://docs.google.com/forms/d/16efC87Lpc5lKG485skkXhBw7lcSrQcs--7wmaQEePfM/viewform)
+
+### 夢これ
+夢についてのLT 企画です。
+ただいま準備中です。
 
 
 ## タイムテーブル
