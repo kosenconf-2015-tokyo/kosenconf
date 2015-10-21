@@ -139,7 +139,7 @@
 | [とちくじ](https://twitter.com/tochikuji) | 複数トラック発表 / 会場設営 |
 | [くりむぞん](https://twitter.com/crimsonwoods) | アイスブレイク |
 | [mktakuya](https://twitter.com/mktakuya) | アイスブレイク |
-| [ありたそ](https://twitter.com/alitaso346) | 懇親会 |
+| [ありたそ](https://twitter.com/alitaso345) | 懇親会 |
 | [かたつむり](https://twitter.com/cathy044) | 受付・広報 |
 | [かじき](https://twitter.com/kaziki2) | 受付・広報 |
 | [でなり](https://twitter.com/denari01) | 受付・広報（ポスター） |
