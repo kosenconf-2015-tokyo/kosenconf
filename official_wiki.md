@@ -40,7 +40,7 @@
 [申し込みはこちらから](https://kosenconf.doorkeeper.jp/events/32929)
 
 ## 発表者募集
-今回の高専カンファレンスでは、一般発表、複数トラック発表、Lightning Talkの3種類の発表を行います。
+今回の高専カンファレンスでは、一般発表、複数トラック発表、Lightning Talk、夢これの4種類の発表を行います。
 発表者募集締め切りは11月20日です。
 [一般発表・Lightning Talkへの申し込みはこちら](https://docs.google.com/forms/d/1k2fKq-gzBb8OzNGWQahrlN2wbMalM_Xn4DcGss7FBmo/viewform?c=0&w=1)
 [複数トラック発表への申し込みはこちら](https://docs.google.com/forms/d/16efC87Lpc5lKG485skkXhBw7lcSrQcs--7wmaQEePfM/viewform)
@@ -93,6 +93,10 @@
 
 [複数トラック発表への申し込みはこちら](https://docs.google.com/forms/d/16efC87Lpc5lKG485skkXhBw7lcSrQcs--7wmaQEePfM/viewform)
 
+### 夢これ
+夢についてのLT 企画です。
+ただいま準備中です。
+
 
 ## タイムテーブル
 ### 1日目
@@ -122,7 +126,18 @@
 | 15:30 | 閉会 |
 
 ## 交通アクセス
-- ただいま準備中です
+### 電車でお越しの方
+- **最寄り駅は調布駅です**（快速・急行・特急すべての電車が停車します）
+- 新宿駅より 京王線下り（京王八王子・橋本・高尾山口方面）にご乗車ください
+- 渋谷駅より 井の頭線下り（吉祥寺方面）にご乗車後，明大前で京王線下り（京王八王子・橋本・高尾山口方面）にお乗り換えください
+
+### 会場へのアクセス
+- 調布駅から徒歩7分
+- 中央口から地上へ上がり，右折をする
+- 道にそってまっすぐ進み，突き当りにあるのが電気通信大学です
+
+&googlemaps2(width=600px, height=400px, mapctrl=small, lat=35.65565, lng=139.544204, zoom=15);
+&googlemaps2_mark(lat=35.65565,lng=139.544204, title=電気通信大学, caption=東京都調布市調布ケ丘1丁目5-1);
 
 ## 実行委員
 | 名前 | 担当 |
@@ -137,7 +152,7 @@
 | [とちくじ](https://twitter.com/tochikuji) | 複数トラック発表 / 会場設営 |
 | [くりむぞん](https://twitter.com/crimsonwoods) | アイスブレイク |
 | [mktakuya](https://twitter.com/mktakuya) | アイスブレイク |
-| [ありたそ](https://twitter.com/alitaso346) | 懇親会 |
+| [ありたそ](https://twitter.com/alitaso345) | 懇親会 |
 | [かたつむり](https://twitter.com/cathy044) | 受付・広報 |
 | [かじき](https://twitter.com/kaziki2) | 受付・広報 |
 | [でなり](https://twitter.com/denari01) | 受付・広報（ポスター） |
