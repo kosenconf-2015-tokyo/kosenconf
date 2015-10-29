@@ -9,8 +9,9 @@
   - ポスター
   - 参加者募集
   - 発表者募集
-    - 一般発表・Lightning Talk
-    - 複数トラック発表
+    - 一般発表・Lightning Talk [二日目]
+    - 複数トラック発表 [二日目]
+    - 夢これ [一日目]
   - タイムテーブル
     - 1日目
     - 2日目
@@ -46,7 +47,7 @@
 [複数トラック発表への申し込みはこちら](https://docs.google.com/forms/d/16efC87Lpc5lKG485skkXhBw7lcSrQcs--7wmaQEePfM/viewform)
 [夢これへの申し込みはこちら](https://docs.google.com/forms/d/1QAgFDud0nxLajvY6VJaq7JORJXFl41rJsHmj-qbn9aE/viewform)
 
-### 一般発表・Lightning Talk[二日目]
+### 一般発表・Lightning Talk [二日目]
 一般発表・LT（Lightning Talk）の発表者を募集いたします。
 発表した経験がない現役生の方も、ぜひこの機会に発表してみませんか？
 たくさんのご応募をお待ちしております。
@@ -58,7 +59,7 @@
 
 [一般発表・LTへの申し込みはこちら](https://docs.google.com/forms/d/1k2fKq-gzBb8OzNGWQahrlN2wbMalM_Xn4DcGss7FBmo/viewform?c=0&w=1)
 
-### 複数トラック発表[二日目]
+### 複数トラック発表 [二日目]
 一般発表・LTのように大きな会場で一人が発表するのではなく、 複数の会場で同時にいくつかの発表が行われ、 参加者は自分の聞きたい発表を聞きに行く、という形式の発表です。
 
 > はじめて発表してみたいけど、大勢の前でやるのはちょっと・・・
@@ -94,7 +95,7 @@
 
 [複数トラック発表への申し込みはこちら](https://docs.google.com/forms/d/16efC87Lpc5lKG485skkXhBw7lcSrQcs--7wmaQEePfM/viewform)
 
-### 夢これ[一日目]
+### 夢これ [一日目]
 開催テーマの「Dreaming」に合わせ、高専カンファレンス100では皆さんの夢をお聞きしたい！と考えています。
 「宇宙飛行士になりたい、先生になりたい、お金持ちになりたい…」小さい頃から、何か夢を持ってきたはずです。
 夢が叶った人も、 これから夢を叶えるためにがんばっている人も、あなたの「夢」を盛大に語ってみませんか？
