@@ -9,8 +9,9 @@
   - ポスター
   - 参加者募集
   - 発表者募集
-    - 一般発表・Lightning Talk
-    - 複数トラック発表
+    - 夢これ [一日目]
+    - 一般発表・Lightning Talk [二日目]
+    - 複数トラック発表 [二日目]
   - タイムテーブル
     - 1日目
     - 2日目
@@ -44,8 +45,34 @@
 発表者募集締め切りは11月20日です。
 [一般発表・Lightning Talkへの申し込みはこちら](https://docs.google.com/forms/d/1k2fKq-gzBb8OzNGWQahrlN2wbMalM_Xn4DcGss7FBmo/viewform?c=0&w=1)
 [複数トラック発表への申し込みはこちら](https://docs.google.com/forms/d/16efC87Lpc5lKG485skkXhBw7lcSrQcs--7wmaQEePfM/viewform)
+[夢これへの申し込みはこちら](https://docs.google.com/forms/d/1QAgFDud0nxLajvY6VJaq7JORJXFl41rJsHmj-qbn9aE/viewform)
 
-### 一般発表・Lightning Talk
+### 夢これ [一日目]
+開催テーマの「Dreaming」に合わせ、高専カンファレンス100では皆さんの夢をお聞きしたい！と考えています。
+「宇宙飛行士になりたい、先生になりたい、お金持ちになりたい…」小さい頃から、何か夢を持ってきたはずです。
+夢が叶った人も、 これから夢を叶えるためにがんばっている人も、あなたの「夢」を盛大に語ってみませんか？
+
+### 発表内容例
+- 宇宙に行きたい！
+- 社長になりたい！
+- 資格をたくさん取りたい！
+- 世界中のおいしい物を食べたい！
+- 高専在学中に47都道府県を踏破したい！
+
+### 発表形式等
+- 「1枚20秒で自動的に切り替わる15枚の写真またはスライドをバックに、とにかく喋る」という形式
+- 参考: ぺちゃくちゃ
+  - 参考動画: <http://www.youtube.com/watch?v=hiHDUNjyhQ4>
+- 発表枠: 10組程度
+- 募集締切: 2015年11月20日 23:59まで
+
+[夢これへの申し込みはこちら](https://docs.google.com/forms/d/1QAgFDud0nxLajvY6VJaq7JORJXFl41rJsHmj-qbn9aE/viewform)
+
+応募フォームは送信後、編集用リンクが表示されます。
+具体的な発表内容が未定の方も、応募後に内容を再編集していただくことが可能です。
+どうぞお気軽にご応募ください！
+
+### 一般発表・Lightning Talk [二日目]
 一般発表・LT（Lightning Talk）の発表者を募集いたします。
 発表した経験がない現役生の方も、ぜひこの機会に発表してみませんか？
 たくさんのご応募をお待ちしております。
@@ -57,7 +84,7 @@
 
 [一般発表・LTへの申し込みはこちら](https://docs.google.com/forms/d/1k2fKq-gzBb8OzNGWQahrlN2wbMalM_Xn4DcGss7FBmo/viewform?c=0&w=1)
 
-### 複数トラック発表
+### 複数トラック発表 [二日目]
 一般発表・LTのように大きな会場で一人が発表するのではなく、 複数の会場で同時にいくつかの発表が行われ、 参加者は自分の聞きたい発表を聞きに行く、という形式の発表です。
 
 > はじめて発表してみたいけど、大勢の前でやるのはちょっと・・・
@@ -92,11 +119,6 @@
 誰かにアウトプットしたいことを心に秘めた発表者の皆さん、 その伝えたい気持ちをこのステージでカタチにしてみませんか？
 
 [複数トラック発表への申し込みはこちら](https://docs.google.com/forms/d/16efC87Lpc5lKG485skkXhBw7lcSrQcs--7wmaQEePfM/viewform)
-
-### 夢これ
-夢についてのLT 企画です。
-ただいま準備中です。
-
 
 ## タイムテーブル
 ### 1日目
