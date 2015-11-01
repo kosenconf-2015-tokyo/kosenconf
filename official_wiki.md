@@ -47,6 +47,10 @@
 [複数トラック発表への申し込みはこちら](https://docs.google.com/forms/d/16efC87Lpc5lKG485skkXhBw7lcSrQcs--7wmaQEePfM/viewform)
 [夢これへの申し込みはこちら](https://docs.google.com/forms/d/1QAgFDud0nxLajvY6VJaq7JORJXFl41rJsHmj-qbn9aE/viewform)
 
+応募フォームは送信後、編集用リンクが表示されます。
+具体的な発表内容が未定の方も、応募後に内容を再編集していただくことが可能です。
+「発表したいけど内容がまだ...」という方も、まずはお気軽にご応募ください！
+
 ### 夢これ [一日目]
 開催テーマの「Dreaming」に合わせ、高専カンファレンス100では皆さんの夢をお聞きしたい！と考えています。
 「宇宙飛行士になりたい、先生になりたい、お金持ちになりたい…」小さい頃から、何か夢を持ってきたはずです。
@@ -68,9 +72,6 @@
 
 [夢これへの申し込みはこちら](https://docs.google.com/forms/d/1QAgFDud0nxLajvY6VJaq7JORJXFl41rJsHmj-qbn9aE/viewform)
 
-応募フォームは送信後、編集用リンクが表示されます。
-具体的な発表内容が未定の方も、応募後に内容を再編集していただくことが可能です。
-どうぞお気軽にご応募ください！
 
 ### 一般発表・Lightning Talk [二日目]
 一般発表・LT（Lightning Talk）の発表者を募集いたします。
