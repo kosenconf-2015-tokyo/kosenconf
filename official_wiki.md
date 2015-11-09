@@ -182,6 +182,7 @@
 | [はるかさん](https://twitter.com/harukasan) | 会計・物品 |
 | [あそなす](https://twitter.com/asonas) | 会場設営 |
 | [かわたそ](https://twitter.com/kawataso) | ネットワーク設営・配信 |
+| [根岸](https://twitter.com/extreamdarkcat) | ネットワーク設営・配信 |
 
 ## 公式タグ
 - kosenconf-100tokyo
