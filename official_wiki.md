@@ -31,6 +31,15 @@
     - 学生 : 500円
     - 社会人 : 2000円
 
+## インターネット配信
+Youtube Liveおよびニコニコ生放送で、各プログラム（アイスブレイクを除く）の配信を予定しております。
+
+以下のチャンネル（コミュニティ）で配信を行いますので、チェックしてください！
+ - [Youtube Live チャンネル](https://www.youtube.com/channel/UC6mW_AI4nWiPSvx3t5UD5pQ)
+ - [ニコニココミュニティ](http://com.nicovideo.jp/community/co1037693)
+
+なお今回、**Ustreamでの配信は行いませんので、ご注意ください。** 
+ 
 ## ポスター
 [PDF形式でのダウンロードはこちら](http://bit.ly/1Wc3z08)
 
